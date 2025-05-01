@@ -2,12 +2,10 @@ const CLIENT_ID = '41469672863-oirobf089qejmd3mscdbe61l6d8bdbqi.apps.googleuserc
 const API_KEY = 'AIzaSyC4RNpF79s6A9m9e0bfcErhuYL-M8T5skQ';
 
 const DISCOVERY_DOCS = [
-  'https://www.googleapis.com/discovery/v1/apis/drive/v3/rest',
   'https://sheets.googleapis.com/$discovery/rest?version=v4',
 ];
 
 const SCOPES = [
-  'https://www.googleapis.com/auth/drive',
   'https://www.googleapis.com/auth/spreadsheets',
 ];
 
